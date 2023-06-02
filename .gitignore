@@ -1,0 +1,4 @@
+app/config.ini
+public/assets/js/config.js
+vendor/
+composer.lock
